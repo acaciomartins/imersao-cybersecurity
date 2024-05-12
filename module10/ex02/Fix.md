@@ -73,8 +73,7 @@ O objetivo da segurança na Camada de Rede se dá para evitar *VulnerableApplica
 Para aproveitar essa proteção, migre para o IMDSv2 e desative o IMDSv1 antigo. Confira a [documentação da AWS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-retrieval.html) para obter mais detalhes.
 
 <br/>
-<br/>
-<br/>
+<hr/>
 <br/>
 
 ### Exemplo de um script em Python para monitoramento de IP e Domain.

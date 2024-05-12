@@ -71,7 +71,7 @@ http://localhost/rce/remotecode.php?code=phpinfo()
 
 
 <br />
-___Fontes:___
+_Fontes:_
 
 https://owasp.org/www-project-vulnerable-flask-app/
 https://blog.convisoappsec.com/o-que-e-remote-code-execution/

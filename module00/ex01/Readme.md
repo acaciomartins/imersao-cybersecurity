@@ -13,7 +13,8 @@ Um invasor pode usar CSRF para obter os dados privados da vítima por meio de um
 ## Sinônimos
 Os ataques CSRF também são conhecidos por vários outros nomes, incluindo XSRF, “Sea Surf”, Session Riding, Cross-Site Reference Forgery e Hostile Linking. A Microsoft se refere a esse tipo de ataque como ataque de um clique em seu processo de modelagem de ameaças e em muitos lugares de sua documentação online.
 
-___Fonte:___ https://owasp.org/www-community/attacks/csrf
+_Fonte:_ 
+- https://owasp.org/www-community/attacks/csrf
 
 # Cenários
 

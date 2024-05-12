@@ -26,7 +26,7 @@ Inclua em algum campo de input ou na url o código **{{8*8}}**
 `{{config}}`
 
 **e)** Digite o comando abaixo no terminal:
-```
+```sh
 curl -X POST \
 -H "Content-Type: application/x-www-form-urlencoded" \
 -d "input={{config}}" \

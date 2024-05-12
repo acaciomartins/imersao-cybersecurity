@@ -53,7 +53,7 @@ bin:x:2:2:bin:/bin:/usr/sbin/nologin
 >Com vulnerabilidades XXE do mundo real, muitas vezes haverá um grande número de valores de dados no XML enviado, qualquer um dos quais poderá ser usado na resposta do aplicativo. Para testar sistematicamente as vulnerabilidades XXE, geralmente você precisará testar cada nó de dados no XML individualmente, fazendo uso de sua entidade definida e verificando se ela aparece na resposta.
 
 
-___Fontes:___ 
+_Fontes:_ 
 - https://portswigger.net/web-security/xxe
 - https://github.com/payloadbox/xxe-injection-payload-list?tab=readme-ov-file
 - https://portswigger.net/web-security/all-labs#xml-external-entity-xxe-injection (Laboratório)

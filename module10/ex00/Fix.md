@@ -6,13 +6,13 @@ Abaixo 2 exemplos de código para sanitização de entrada do usuário.
 
 ### Exemplo #1:
 
-```
+```python
  user_input = request.form.get('input').replace("{", "").replace("}", "")
 ```
 
 ### Exemplo #2:
 
-```
+```python
     bad_chars = "'_#&;*}{"
 
     if any(char in bad_chars for char in user_input):
@@ -20,7 +20,7 @@ Abaixo 2 exemplos de código para sanitização de entrada do usuário.
 ```
 
 
-___Leituras:___
+_Fontes:_
 
 - https://docs.cobalt.io/bestpractices/prevent-ssti/
 - https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection

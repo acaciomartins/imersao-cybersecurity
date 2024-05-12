@@ -14,11 +14,15 @@ Porque ele pensa o O script veio de uma fonte confiável, o script malicioso pod
 
 Esses scripts podem até mesmo reescrever o Conteúdo da página HTML. Para mais detalhes sobre os diferentes tipos de XSS falhas, veja: Tipos de scripts entre sites.
 
-___Fonte:___https://owasp.org/www-community/attacks/xss/
+_Fonte:_
+
+- https://owasp.org/www-community/attacks/xss/
 
 ## Análise
 
-### Explicação com base codigo fonte.
+### Explicação com base no código fonte.
 
-O script que lê o valor do campo input (inputText) não faz nenhuma consistência para validar se há algum código malicioso, tal como script, antes de criar o element script. Desse modo, toda vez que o usuário clicar no botão "Submit", o texto é injetado na integra dentro do "textContent" do script.
+O script que lê o valor do campo input (inputText) não faz nenhuma consistência para validar se há algum código malicioso, tal como script, antes de criar o element script.
+
+Desse modo, toda vez que o usuário clicar no botão "Submit", o texto é injetado na integra dentro do "textContent" do script.
 

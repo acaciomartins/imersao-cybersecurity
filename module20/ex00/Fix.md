@@ -23,10 +23,11 @@ Caso a aplicação necessite utilizar do recurso de executar algum comando no la
 Utilizar de ferramentas para validação de código fonte para evitar a exposição de vulnerabilidades.
 
 
+_Fontes:_
 
 https://blog.convisoappsec.com/o-que-e-remote-code-execution/
 https://github.com/videvelopers/Vulnerable-Flask-App
 https://github.com/harsh-bothra/SecurityExplained/blob/main/resources/xxe-in-json.md
 https://blog.convisoappsec.com/o-que-e-remote-code-execution/
 
-uma abordagem Shift-Left
+> Analisar/: uma abordagem Shift-Left

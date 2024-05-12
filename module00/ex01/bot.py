@@ -11,7 +11,7 @@ def fazer_requisicao():
     if response.status_code == 200:
         print("Requisicao deu bom")
     else:
-        print("requisicao deu ruim")
+        print("Requisicao deu ruim")
 
     
 interfavlo_de_tempo = 10

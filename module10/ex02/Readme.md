@@ -50,7 +50,7 @@ Isso pode permitir que um invasor acesse arquivos sensíveis, como senhas de ban
 
 <br/>
 
-___Fontes:___
+_Fontes:_
 
 - https://owasp.org/www-community/attacks/Server_Side_Request_Forgery
 - https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet.html
