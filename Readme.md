@@ -14,7 +14,7 @@ Este repositório contém módulos e exercícios relacionados ao programa de tre
 
 ## Visão Geral
 
-Este repositório abriga os gerados durante o programa de treinamento em Segurança Cibernética oferecido pela 42 São Paulo. O treinamento abrange diversos aspectos da segurança cibernética, incluindo, mas não se limitando a, segurança de redes, criptografia, segurança web e hacking ético.
+Este repositório abriga artefatos gerados durante o programa de treinamento em Segurança Cibernética oferecido pela 42 São Paulo. O treinamento abrange diversos aspectos da segurança cibernética, incluindo, mas não se limitando a, segurança de redes, criptografia, segurança web e hacking ético.
 
 ## Módulos
 
