@@ -1,8 +1,12 @@
 # Treinamento de Segurança Cibernética na 42 São Paulo
 
-Bem-vindo!!! 
+Este repositório contém os materiais e informações relacionados ao treinamento de Cybersecurity realizado na 42 São Paulo.
 
-Este repositório contém módulos e exercícios relacionados ao programa de treinamento em segurança cibernética promovido pela 42 São Paulo.
+O treinamento abrange diversos módulos e exercícios práticos para aprimorar as habilidades em segurança cibernética.
+
+Este treinamento segue uma metodologia única onde não há professores e as atividades são realizadas em pares, com cada par consultando e ensinando toda a classe. 
+
+O mais interessante é que no final de cada atividade, um colega participante do treinamento fornece sua avaliação, fomentando um momento de troca e aprendizado significativo.
 
 ## Sumário
 
@@ -14,17 +18,20 @@ Este repositório contém módulos e exercícios relacionados ao programa de tre
 
 ## Visão Geral
 
-Este repositório abriga artefatos gerados durante o programa de treinamento em Segurança Cibernética oferecido pela 42 São Paulo. O treinamento abrange diversos aspectos da segurança cibernética, incluindo, mas não se limitando a, segurança de redes, criptografia, segurança web e hacking ético.
+O projeto está organizado da seguinte forma:
+
+- Readme.md: Documentação principal do projeto, fornecendo uma visão geral e instruções de uso.
+
+- Fix.md: Documento com informações sobre correções e soluções para possíveis problemas.
+
+- Payload.md: Detalhes sobre payloads e exemplos de utilização.
+Alguns exercícios incluem a implementação de um bot em Python para aprimorar as habilidades práticas.
 
 ## Módulos
 
 O treinamento é dividido em vários módulos, cada um focado em um aspecto específico da segurança cibernética.
 
 Cada módulo contém os exercícios práticas gerados. Contendo um Readme.md explicando a vulnerabilidade, um Fix.md com as propostas de soluções para a vulnerabilidade e o Payload.md que contêm a análise e entradas para eplorar a vulnerabilidade.
-
-## Uso
-
-Para começar com os exercícios e projetos neste repositório, siga as instruções abaixo.
 
 ### Instalando o Python
 
@@ -52,9 +59,14 @@ Isso é tudo! Você está pronto para explorar os módulos e exercícios neste r
 
 # Cybersecurity Training at 42 São Paulo
 
-Welcome!!!
+This repository contains materials and information related to the Cybersecurity training conducted at 42 São Paulo.
 
-This repository contains modules and exercises related to the cybersecurity training program promoted by 42 São Paulo.
+The training covers various modules and practical exercises to enhance cybersecurity skills.
+
+This training follows a unique methodology where there are no teachers, and activities are carried out in pairs, with each pair consulting and teaching the entire class.
+
+What's most interesting is that at the end of each activity, a fellow participant in the training provides their evaluation, fostering a moment of exchange and significant learning.
+
 
 ## Summary
 
@@ -66,7 +78,15 @@ This repository contains modules and exercises related to the cybersecurity trai
 
 ## Overview
 
-This repository houses the artifacts generated during the Cybersecurity training program offered by 42 São Paulo. The training covers various aspects of cybersecurity, including but not limited to network security, cryptography, web security, and ethical hacking.
+The project is organized as follows:
+
+- Readme.md: Main project documentation, providing an overview and usage instructions.
+
+- Fix.md: Document with information about fixes and solutions to potential issues.
+
+- Payload.md: Details about payloads and usage examples.
+Some exercises include the implementation of a Python bot to improve practical skills.
+
 
 ## Modules
 
